@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Local DB & runtime files
+data/issues.db
+local_version.json
+
+# Test cache
+.pytest_cache/
+
+# Editor
+.vscode/
