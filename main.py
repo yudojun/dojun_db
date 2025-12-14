@@ -249,5 +249,6 @@ class MainApp(MDApp):
 # =============================
 # 실행
 # =============================
+# commit practice: initial test by dojun
 app = MainApp()
 app.run()
